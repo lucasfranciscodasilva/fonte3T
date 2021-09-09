@@ -1,15 +1,31 @@
-# fonte3T
+﻿# fonte3T
 
-esquematico  de uma  fonte de alimentaç simples com três tensôes de saida 
 
-| fonte3T |
-|:-----:|
+Esquematico de uma  fonte de alimentação simples com três tensôes de saida
+
+
+
+| Esquematico | |
+|:-------:|
+
 |![esquematico](https://github.com/joaovitorfelixdasilva/fonte3T/blob/main/Capturar.PNG)|
-| fonte: proprio autor  |
-
-| fonte3T |
-|:-----:| 
-    |![esquematico  https://github.com/lucasfranciscodasilva/fonte3T/blob/main/Layout.
 
 | fonte: proprio autor  |
-  https://github.com/lucasfranciscodasilva/fonte3T/blob/main/Layout.
+
+
+
+| Layout |
+
+|:-------:|
+|![esquematico](https://github.com/lucasfranciscodasilva/fonte3T/blob/main/Layout.PNG)
+|
+| fonte: proprio autor  |
+
+| 3D |
+
+|:-------:|
+|![esquematico](https://github.com/lucasfranciscodasilva/fonte3T/blob/main/3D.PNG)
+|
+| fonte: proprio autor  |
+
+
