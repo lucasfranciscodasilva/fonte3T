@@ -1,31 +1,15 @@
-﻿# fonte3T
+﻿# Fonte de Três Tensões
+|Esquemático|
+|:---------:|
+|![Esquematico](https://github.com/lucasfranciscodasilva/blob/main/esquematico.PNG)|
+|Fonte: Próprio autor|
 
+|Layout|
+|:---------:|
+![Layout](https://github.com/lucasfranciscodasilva/fonte3t/blob/main/layout.PNG)
+|Fonte: Próprio autor|
 
-Esquematico de uma  fonte de alimentação simples com três tensôes de saida
-
-
-
-| Esquematico | 
-|:-------:|
-
-|![esquematico](https://github.com/joaovitorfelixdasilva/fonte3T/blob/main/Capturar.PNG)|
-
-|fonte: proprio autor|
-
-
-
-| Layout |
-
-|:-------:|
-|![esquematico](https://github.com/lucasfranciscodasilva/fonte3T/blob/main/Layout.PNG)
-|
-|fonte: proprio autor|
-
-| 3D |
-
-|:-------:|
-|![esquematico](https://github.com/lucasfranciscodasilva/fonte3T/blob/main/3D.PNG)
-|
-|fonte: proprio autor|
-
-
+|Vista 3D|
+|:---------:|
+![Vista3D](https://github.com/lucasfranciscodasilva/fonte3t/blob/main/vista3D.PNG)
+|Fonte: Próprio autor|
