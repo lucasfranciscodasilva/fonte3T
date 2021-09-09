@@ -5,12 +5,12 @@ Esquematico de uma  fonte de alimentação simples com três tensôes de saida
 
 
 
-| Esquematico | |
+| Esquematico | 
 |:-------:|
 
 |![esquematico](https://github.com/joaovitorfelixdasilva/fonte3T/blob/main/Capturar.PNG)|
 
-| fonte: proprio autor  |
+|fonte: proprio autor|
 
 
 
@@ -19,13 +19,13 @@ Esquematico de uma  fonte de alimentação simples com três tensôes de saida
 |:-------:|
 |![esquematico](https://github.com/lucasfranciscodasilva/fonte3T/blob/main/Layout.PNG)
 |
-| fonte: proprio autor  |
+|fonte: proprio autor|
 
 | 3D |
 
 |:-------:|
 |![esquematico](https://github.com/lucasfranciscodasilva/fonte3T/blob/main/3D.PNG)
 |
-| fonte: proprio autor  |
+|fonte: proprio autor|
 
 
